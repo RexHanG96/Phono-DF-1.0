@@ -1,7 +1,7 @@
 # Phono-DF 1.0 
 
 本软件系开源软件，主要用于生成音系区别特征的学习与教学，目前只有windows版本，在win11系统上运行稳定。
-[![界面](https://github.com/RexHanG96/Phono-DF-1.0/assets/140506479/4ddf7719-a11d-4bb6-9777-68061679bc4a)]
+![界面](https://github.com/RexHanG96/Phono-DF-1.0/assets/140506479/4ddf7719-a11d-4bb6-9777-68061679bc4a)
 
 
 
