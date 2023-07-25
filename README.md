@@ -16,7 +16,7 @@
        并列出减去交集后各个音段的区别特征集合中剩下的元素的集合。（显示在右输出栏）
    右侧：
        音段列表：不同的系统略有差异，基本功能一致，点选音段，在右输出栏输出选中音段的区别特征集和。
-   上方：系统选择菜单：目前只有SPE系统和Hayes(2009)的系统，数据来自https://github.com/PhonologicalCorpusTools/PCT_Fileshare/commits?author=stannam，有改动。
+   上方：系统选择菜单：目前只有SPE系统和Hayes(2009)的系统，数据来自 https://github.com/PhonologicalCorpusTools/PCT_Fileshare/commits?author=stannam，有改动。
        后续或许会添加其他的系统（取决于我忙不忙）。
        基本属性菜单：我就不多说了，这个很简单，自己摸索一下就行。
   写在最后：如果有意见建议，欢迎来信：1643511915@qq.com
