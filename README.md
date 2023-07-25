@@ -5,9 +5,10 @@
 
 
 
-当前数据来源：
-            https://github.com/PhonologicalCorpusTools/PCT_Fileshare/tree/main/FEATURE
-
+数据来源：
+               https://github.com/PhonologicalCorpusTools/PCT_Fileshare/tree/main/FEATURE
+            
+背景图片来源：  Pixabay
 
 安装教程：
     1. 点击安装（一定要点选在桌面创建快捷方式）
