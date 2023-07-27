@@ -1,4 +1,4 @@
-#第二波更新（1.6版本 7月27日）
+# 第二波更新（1.6版本 7月27日）
   新增：清空按钮
   <img width="959" alt="e8f17264eecc90542bd388766e097eb" src="https://github.com/RexHanG96/Phono-DF-1.0/assets/140506479/5d560295-877c-476b-b446-76c7ff9bbc39">
 
